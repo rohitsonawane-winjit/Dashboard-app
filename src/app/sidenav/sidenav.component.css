@@ -1,0 +1,17 @@
+.content{
+  padding: 24px;
+}
+
+mat-toolbar{
+  position: relative;
+  z-index: 5;
+}
+
+mat-sidenav-container{
+  height: calc(100vh - 64px);
+}
+
+.align-items-to-right{
+  margin-right: 0px;
+  margin-left: auto;
+}
